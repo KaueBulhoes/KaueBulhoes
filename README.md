@@ -1,26 +1,36 @@
-👋 Olá, eu sou o Kauê Bulhões!
-🎯 Desenvolvedor em formação, apaixonado por tecnologia, construção de soluções e aprendizado contínuo.
+<h1 align="center">👋 Olá, eu sou o Kauê Bulhões!</h1>
 
-Atualmente estou em transição de carreira da engenharia para a tecnologia, focado em desenvolvimento Full Stack.
-Meu objetivo é crescer como desenvolvedor e construir projetos que impactem positivamente a vida das pessoas!
+<p align="center">
+🎯 Desenvolvedor em formação | Apaixonado por tecnologia, soluções criativas e aprendizado contínuo
+</p>
 
-🚀 Sobre mim
-🎓 Formação em Engenharia Civil (UFRN) e atualmente cursando Desenvolvimento Full Stack pela EBAC.
+---
 
-☁️ Aprendendo sobre computação em nuvem no programa AWS re/Start da Escola da Nuvem.
+## 🚀 Sobre mim
+- 🎓 Formação: Engenharia Civil (UFRN)
+- 🖥️ Atualmente: Estudando Desenvolvimento Full Stack (EBAC) e Computação em Nuvem (AWS re/Start pela Escola da Nuvem)
+- 🛠️ Carreira: Em transição da Engenharia para a Tecnologia
+- 🌱 Buscando crescer como desenvolvedor e construir soluções que impactem positivamente a vida das pessoas
 
-🌎 Apaixonado por tecnologia, inovação, soluções criativas e melhoria contínua.
+---
 
-🛠️ Tecnologias que estou aprendendo e utilizando
-Front-end: React, Angular, Next.js, Ionic
+## 🛠️ Tecnologias e Ferramentas
 
-Back-end: Node.js, Java (em formação)
+**Front-end:**
+- React, Angular, Next.js, Ionic
 
-Banco de dados: MySQL, PostgreSQL, Prisma ORM
+**Back-end:**
+- Node.js, Java (em formação)
 
-Cloud: Fundamentos de AWS
+**Banco de Dados:**
+- MySQL, PostgreSQL, Prisma ORM
 
-Outros: Git, GitHub, HTML, CSS, JavaScript
+**Cloud & Outros:**
+- Fundamentos AWS | Git & GitHub | HTML, CSS, JavaScript
 
-✨ Vamos nos conectar?
-[Visite meu Linkedin]([https://github.com/seuusuario](https://www.linkedin.com/in/kauebulhoes/))
+## 🌎 Vamos nos conectar?
+[Linkedin](https://www.linkedin.com/in/kauebulhoes/)
+
+<p align="center">
+✨ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos!
+</p>
